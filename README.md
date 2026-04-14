@@ -1,3 +1,5 @@
+This project is based on [Linux_NetworkOptimizer](https://github.com/develfishere/Linux_NetworkOptimizer).
+
 # Linux Network Optimizer (BBR)
 
 Network optimization script for Linux servers with Google BBR congestion control, intelligent sysctl tuning, and MTU discovery.
